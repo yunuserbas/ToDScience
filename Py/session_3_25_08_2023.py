@@ -113,7 +113,7 @@
     }
    ],
    "source": [
-    "\"Techpro Education\"[8]"
+    "\"Techpro\"[8]"
    ]
   },
   {
@@ -122,7 +122,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "name = \"Techpro Education\""
+    "name = \"Techpro\""
    ]
   },
   {
@@ -134,7 +134,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Techpro Education\n"
+      "Techpro\n"
      ]
     }
    ],
